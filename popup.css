@@ -1,0 +1,18 @@
+body{
+	height: 180px;
+	width: 230px;
+}
+
+#changecolors{
+	margin: 20px 0;
+	background-color: blue;
+	border-radius: 10px;
+	width: 80px;
+	height: 30px;
+	color: white;
+	cursor: pointer;
+	border: none;
+}
+#changecolors:focus{
+	outline: none;
+}
